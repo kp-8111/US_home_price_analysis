@@ -38,7 +38,7 @@ This project analyzes the factors influencing US home prices over the last 20 ye
 
 ## **Visualizations**
 ### 1. Home Prices vs CPI (2003–2024)
-![Home Prices vs CPI]([plots/home_prices_vs_cpi.png](https://github.com/kp-8111/US_home_price_analysis/blob/main/Outputs/Line%20chart.png))
+![Home Prices vs CPI](Outputs/Line chart.png)
 
 ### 2. Correlation Heatmap
 ![Correlation Heatmap](plots/correlation_heatmap.png)

@@ -41,13 +41,15 @@ This project analyzes the factors influencing US home prices over the last 20 ye
 ![Home Prices vs CPI](Outputs/Line_chart.png)
 
 ### 2. Correlation Heatmap
-![Correlation Heatmap](plots/correlation_heatmap.png)
+![Correlation Heatmap](Outputs/Corelation_heat_map.png)
 
 ### 3. Scatter Plots
+- **Home Prices vs CPI (Inflation)**:
+  ![Home Prices vs Inflation](Outputs/scatter_plot_1.png)
 - **Home Prices vs Unemployment**:
-  ![Home Prices vs Unemployment](plots/home_prices_vs_unemployment.png)
+  ![Home Prices vs Unemployment](Outputs/scatter_plot_3.png)
 - **Home Prices vs Housing Supply**:
-  ![Home Prices vs Housing Supply](plots/home_prices_vs_housing_supply.png)
+  ![Home Prices vs Housing Supply](Outputs/scatter_plot_2.png)
 
 ---
 

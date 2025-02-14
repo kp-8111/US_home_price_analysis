@@ -13,7 +13,6 @@ This project analyzes the factors influencing US home prices over the last 20 ye
   - Housing Supply (`MSACSR`)
   - Building Permits (`PERMIT`)
   - Consumer Price Index (`CPIAUCSL`)
-- **Data Source**: [FRED (Federal Reserve Economic Data)](https://fred.stlouisfed.org/).
 
 ---
 

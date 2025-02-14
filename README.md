@@ -1,6 +1,6 @@
 # US Home Price Analysis (2003–2024)
 
-This project analyzes the factors influencing US home prices over the last 20 years using publicly available data. The analysis includes data cleaning, exploratory data analysis (EDA), and a linear regression model to identify key drivers of home prices.
+This project analyzes the factors influencing US home prices over the last 20 years using publicly available data. The analysis includes data cleaning, exploratory data analysis (EDA) and identified key drivers of home prices.
 
 ---
 

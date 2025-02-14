@@ -18,6 +18,8 @@ This project analyzes the factors influencing US home prices over the last 20 ye
 ---
 
 ## **Repository Structure**
+
+```plaintext
 home_price_analysis/
 ├── data/
 │   ├── raw/           # Original CSV files from FRED
@@ -29,6 +31,7 @@ home_price_analysis/
 ├── plots/             # Visualizations (PNG/PDF)
 └── README.md          # Instructions to reproduce results
 
+```
 
 ---
 

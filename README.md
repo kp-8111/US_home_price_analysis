@@ -27,11 +27,18 @@ This project analyzes the factors influencing US home prices over the last 20 ye
    - Strongest negative correlation with home prices (`-0.57`).
    - Higher unemployment reduces home prices.
 3. **Mortgage Rates**:
-   - Moderate negative correlation (`-0.25`).
-   - Higher rates reduce affordability, lowering home prices.
+   - Moderate positive correlation (`0.25`).
+   - This suggests that as mortgage rates increase, home prices also tend to rise, potentially reflecting common economic factors such as inflation.
+
 4. **Housing Supply**:
-   - Weak negative correlation (`-0.22`).
-   - Increased supply reduces prices, but the effect is less pronounced.
+   - Weak positive correlation (`0.22`).
+   - This indicates that an increase in housing supply is slightly associated with higher home prices, although the relationship is not very strong.
+
+5. **Building Permits**:
+   - Moderate positive correlation (`0.44`).
+   - This suggests that higher numbers of building permits, which signal increased construction activity, are associated with higher home prices.
+
+
 
 ---
 

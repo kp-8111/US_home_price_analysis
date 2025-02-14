@@ -16,6 +16,7 @@ This project analyzes the factors influencing US home prices over the last 20 ye
 
 ---
 
+[Click here to visit Jupyter Notebook](home_price_analysis.ipynb)
 
 ---
 

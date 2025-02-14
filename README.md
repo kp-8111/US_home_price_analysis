@@ -15,7 +15,7 @@ This project analyzes the factors influencing US home prices over the last 20 ye
   - Consumer Price Index (`CPIAUCSL`)
 
 ---
- ![Home Prices vs Inflation](home_price_analysis.ipynb)
+
 
 ---
 

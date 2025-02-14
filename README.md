@@ -53,8 +53,4 @@ This project analyzes the factors influencing US home prices over the last 20 ye
 
 ---
 
-## **How to Reproduce**
-1. **Clone the Repository**:
-   ```bash
-   git clone https://github.com/yourusername/home_price_analysis.git
-   cd home_price_analysis
+
